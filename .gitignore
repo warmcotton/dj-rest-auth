@@ -1,0 +1,7 @@
+.venv
+.idea
+templates
+*.sqlite3
+*.pyc
+__pycache__
+.env
